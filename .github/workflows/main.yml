@@ -28,7 +28,7 @@ jobs:
           python pubsub_fetcher.py
       - name: Creating the readme
         run: |
-          name = cat "$(pubsubs.json)" | jq '.name' -C | more
+          name = jq '.name' -C pubsubs.json
           echo "Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site." > README.md
           echo "\nThe current sub available is: " >>  README.md
           echo "$name" >>  README.md
