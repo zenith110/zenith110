@@ -6,8 +6,7 @@ readme_intro = "Hello, my name is Abrahan Nevarez. I'm currently working on vari
 subs = ""
 for sub in sub_data:
     if(sub["on_sale"] == "True"):
-        subs = f"\nCurrently the sub(s) on sale are: ![{sub['name']} picture]({sub['image']})"
-        f"  {sub['name']}\nfrom {sub['last_on_sale']}"
+        subs = f"\nCurrently the sub(s) on sale are: ![{sub['name']} picture]({sub['image']})  {sub['name']}<br/>  from {sub['last_on_sale']}<br/>"
     else:
         continue
 final_string = readme_intro + subs
