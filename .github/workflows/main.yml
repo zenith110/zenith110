@@ -30,7 +30,7 @@ jobs:
         run: |
           echo "Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site." > README.md
           echo "\nThe current sub available is: " >>  README.md
-          echo jq '.name' pubsubs.json >>  README.md
+          echo jq -r pubsubs.json '.name'  >>  README.md
           cat pubsubs.json | jq '.image'
           cat pubsubs.json | jq '.last_on_sale'
           cat pubsubs.json | jq '.name'
