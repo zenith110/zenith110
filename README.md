@@ -1,2 +1,2 @@
-Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site.<br/>
+Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site.<br/>##[Pubsub api site](https://www.pubsub-api.dev/) - [Github Repo](https://github.com/zenith110/pubsub_api)<br/>
 Currently the sub(s) on sale are: <br/>ultimate<br/>from 8/19-8/25<br/>
