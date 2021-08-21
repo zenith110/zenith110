@@ -7,7 +7,7 @@ pubsub_project_heading = "<h1>[Pubsub api site](https://www.pubsub-api.dev/) - [
 subs = ""
 for sub in sub_data:
     if(sub["on_sale"] == "True"):
-        subs = f"Currently the sub(s) on sale are: <br/>![{sub['name']}]({sub['image']})<br/>from {sub['last_on_sale']} for {sub['price']}<br/>"
+        subs = f"Currently the sub(s) on sale are: <br/>![{sub['name']}]({sub['image']})<br/>{sub['name']}<br/>from {sub['last_on_sale']} for {sub['price']}<br/>"
     else:
         continue
 final_string = readme_intro + pubsub_project_heading + subs
