@@ -3,8 +3,7 @@ import json
 subs = requests.get("https://api.pubsub-api.dev/onsale/")
 sub_data = json.loads(subs.text)
 readme_intro = "Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site.<br/>"
-programming_languages = f"![Golang](https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png)"
-f"![Javascript](https://img.icons8.com/color/452/javascript--v1.png)"
+programming_languages = f"![Golang](https://www.iconninja.com/files/938/488/872/golang-prog-icon.png)![Javascript](https://www.iconninja.com/files/824/866/459/node-javascript-js-data-icon.png)"
 pubsub_project_heading = "<h1>[Pubsub api site](https://www.pubsub-api.dev/) - [Github Repo](https://github.com/zenith110/pubsub_api)</h1>"
 subs = ""
 for sub in sub_data:
