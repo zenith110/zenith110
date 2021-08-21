@@ -1,3 +1,4 @@
 Hello, my name is Abrahan Nevarez. I'm currently working on various projects, but my favorite is my pubsub site.
-\nThe current sub available is: 
-jq -r pubsubs.json .name
+Currently the sub on sale are: https://pbs.twimg.com/media/Ek74F-xXIAAW_zv?format=jpg&name=360x360 
+ultimate
+from 8/19-8/25
