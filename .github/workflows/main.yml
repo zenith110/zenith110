@@ -32,7 +32,7 @@ jobs:
         with:
           path: ./pubsubs.json
       - name: Echo package.json
-        run: echo "${{ steps.package.outputs.content }}"
+        run: echo "${{ steps.package.outputs.content["image]}}"
       - name: Commit file changes
         run: |
             git config --global user.name 'zenith110'
