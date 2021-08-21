@@ -28,10 +28,10 @@ jobs:
           python pubsub_fetcher.py
       - name: Creating the readme
         run: |
-          cat pubsubs.json | jq 'image'
-          cat pubsubs.json | jq 'last_on_sale'
-          cat pubsubs.json | jq 'name'
-          cat pubsubs.json | jq 'price'
+          cat pubsubs.json | jq '.image'
+          cat pubsubs.json | jq '.last_on_sale'
+          cat pubsubs.json | jq '.name'
+          cat pubsubs.json | jq '.price'
           
       - name: Commit file changes
         run: |
