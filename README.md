@@ -1,1 +1,3 @@
-Hello, my name is Abrahan Nevarez. I'm currently trying different fields of tech.<br/>I currently experimenting with open source technology and creating my own open source projects that solve problems I face on the daily.<br/><h1>Programming Languages</h1> <div styles='display: inline-block'>![Golang](https://github.com/zenith110/zenith110/blob/main/golang_logo_icon_171073.png)![Javascript](https://github.com/zenith110/zenith110/blob/main/javascript-371774.ico) ![Python](https://github.com/zenith110/zenith110/blob/main/python-452091.ico)</div>
+I enjoy tinkering with various forms of technology, from cloud to hardware such as raspberry pis. 
+Technology is an outlet that incurs deep problem solving, and I'm happy to be within the field.
+When not problem solving, you can find me creating or performing music on various instruments, as well as learning something new.
