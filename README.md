@@ -1,4 +1,8 @@
-I enjoy tinkering with various forms of technology, from cloud to hardware such as Raspberry Pis. 
-Technology is an outlet that incurs deep problem solving, and I'm happy to be within the field.
-When not problem solving, you can find me creating or performing music on various instruments, as well as learning something new. I also blog my discoveries and thoughts on my website.
-
+Hi! 
+My name is Abrahan and I'm currently a DevOps Engineer at Publix.
+I've been developing programs for 3+ years now, some of my most common languages are:
+- Go
+- Python
+- C#
+- Rust
+Outside of cloud work, I like to experiment with graphics using Vulkan, learn new languages and frameworks, as well as build custom pcs.
