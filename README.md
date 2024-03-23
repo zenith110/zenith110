@@ -1,5 +1,5 @@
 Hi! 
-My name is Abrahan and I'm currently a DevOps Engineer at Publix.
+My name is Abrahan and I'm currently a Software Engineer at Publix.
 
 
 I've been developing programs for 3+ years now, some of my most common languages are:
